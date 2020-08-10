@@ -15,3 +15,7 @@
 
 [twitter]: https://twitter.com/iatharva_ 
 [linkedin]: https://www.linkedin.com/in/iatharva/
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=iatharva&&show_icons=true&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b">
