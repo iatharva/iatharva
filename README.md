@@ -1,6 +1,6 @@
 ### Hey, I'm Atharva 👋
 
-## I'm a Developer, Programmer, Technophile 💻, and Student!
+## I'm a Developer, Programmer, Technophile 💻, Philomath and Student!
 - 👨🏽‍💻 I'm currently working on android apps!
 - 🧐 I'm currently trying to learn every new technology 😂
 - 🥅 2020 Goals: Contribute more to Open Source projects and also do my own side projects.
