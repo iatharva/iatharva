@@ -1,8 +1,8 @@
 ### Hey, I'm Atharva 👋
 
 ## I'm a Developer, Programmer, Technophile 💻, Philomath and Student!
-- 👨🏽‍💻 I'm currently working on android apps!
-- 🧐 I'm currently trying to learn every new technology 😂
+- 👨🏽‍💻 I'm currently working on .NET 5 !
+- 🧐 trying to learn every new technology 😂
 - 🥅 2021 Goals: Contribute to more projects and develop skills of one tech.
 - 📓 Fun fact: I like to play games 🎮 (like valorant, warframe) and watch intriguing shows 📺 and movies 🎞. 
 
