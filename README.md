@@ -1,10 +1,10 @@
 # Hey, I'm Atharva 👋
 
 ### I'm a Developer, Programmer, Technophile 💻, Philomath and Student!
-- 👨🏽‍💻 I'm currently working on .NET 5 !
+- 👨🏽‍💻 I'm currently working on <a href="https://dotnet.microsoft.com/">.NET 5</a> !
 - 🧐 trying to learn every new technology 😂
 - 🥅 2021 Goals: Contribute to more projects and expand my knowledge.
-- 📓 Fun fact: I like to play warframe 🎮 and watch intriguing shows 📺 and movies 🎞. 
+- 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>🎮 and watch intriguing shows 📺 and movies 🎞. 
 - To know more about me visit: <a href="https://iatharva.github.io"> iatharva.github.io </a>
 
 ### I’m looking to collaborate on developing anything that will help people.
