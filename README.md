@@ -7,7 +7,7 @@
 - 📓 Fun fact: I like to play warframe 🎮 and watch intriguing shows 📺 and movies 🎞. 
 - To know more about me visit: <a href="https://iatharva.github.io"> iatharva.github.io </a>
 
-#### I’m looking to collaborate on developing anything that will help people.
+### I’m looking to collaborate on developing anything that will help people.
 
 ### Connect with me:
 [<img align="left" alt="iatharva_ | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
