@@ -20,6 +20,9 @@
 [linkedin]: https://www.linkedin.com/in/iatharva/
 [stackoverflow]: https://stackoverflow.com/users/5891477/iatharva
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=iatharva&&show_icons=true&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iatharva&show_icons=true&layout=compact&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" />
+<p align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=iatharva&background=2B2B2B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iatharva&&show_icons=true&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" />
+</p>
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iatharva&show_icons=true&layout=compact&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" /></p>
