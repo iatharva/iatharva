@@ -4,7 +4,7 @@
 - 👨🏽‍💻 I'm currently working in <a href="https://dotnet.microsoft.com/">.NET 5</a> !
 - 🧐 trying to learn every new technology 😂
 - 🥅 2021 Goals: Contribute to more projects and expand my knowledge.
-- 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>🎮 and watch intriguing shows 📺 and movies 🎞. 
+- 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>🎮 and watch intriguing shows 📺 and movies 🎞(more about it <a href="https://www.instagram.com/ronin_daedalus/">here </a>).
 - To know more about me visit: <a href="https://iatharva.github.io"> iatharva.github.io </a>
 
 ### I’m looking to collaborate on developing anything that will help people.
