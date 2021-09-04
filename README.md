@@ -1,4 +1,4 @@
-# Hey, I'm Atharva 👋
+# Hey, I'm Atharva <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ### I'm a Developer 🖥, Programmer 👨‍💻, Technophile 💻, Philomath, and Student 👨‍🎓
 
