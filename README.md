@@ -31,3 +31,7 @@
 </p>
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iatharva&show_icons=true&layout=compact&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" /></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iatharva/iatharva/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
