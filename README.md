@@ -1,6 +1,6 @@
 # Hey, I'm Atharva <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-### I'm a Developer 🖥, Programmer 👨‍💻, Technophile 💻, Philomath, and Student 👨‍🎓
+### I'm a Developer 🖥, Programmer, Technophile, Philomath, and Student.
 
 - 👨🏽‍💻 I'm currently working in <a href="https://dotnet.microsoft.com/">.NET 5</a> !
 - 🧐 trying to learn every new technology 😂
