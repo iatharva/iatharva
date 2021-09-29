@@ -1,5 +1,5 @@
 # Hey, I'm Atharva <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
+![](https://komarev.com/ghpvc/?username=iatharva&style=flat-square)
 ### I'm a Developer 🖥, Programmer, Technophile, Philomath, and Student.
 
 - 👨🏽‍💻 I'm currently working in <a href="https://dotnet.microsoft.com/">.NET 5</a> !
