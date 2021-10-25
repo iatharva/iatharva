@@ -3,7 +3,7 @@
 ### I'm a Developer 🖥, Programmer, Technophile, Philomath, and Student.
 
 - 👨🏽‍💻 I'm currently working in <a href="https://dotnet.microsoft.com/">.NET 5</a> !
-- 🧐 trying to learn every new technology 😂
+- 🧐 trying to learn every new technology and work on too many things. 😂
 - 🥅 2021 Goals: Contribute to more projects and expand my knowledge.
 - 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>🎮 and watch intriguing shows 📺 and movies 🎞(more about it <a href="https://www.instagram.com/ronin_daedalus/">here </a>).
 - To know more about me visit: <a href="https://iatharva.github.io"> iatharva.github.io </a>
