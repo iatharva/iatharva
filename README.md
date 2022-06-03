@@ -1,6 +1,6 @@
 ![](images/header.png)
 
-# Hey, I'm Atharva <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hey, I'm Atharva <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="5px">
 ![](https://komarev.com/ghpvc/?username=iatharva&style=flat-square)
 ### I'm a Developer 🖥, Programmer, Technophile, Philomath, and Student.
 
