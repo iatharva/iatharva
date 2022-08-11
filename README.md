@@ -1,6 +1,6 @@
 ![](images/header.png)
 
-# Hey, I'm Atharva
+# Hey, I'm Atharva <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=iatharva&style=flat-square)
 ### I'm a Developer 🖥, Programmer, Technophile, Philomath, and Student.
 
@@ -26,14 +26,13 @@
 ### GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iatharva&background=2B2B2B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&border=FFFFFF)](https://git.io/streak-stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iatharva&background=2B2B2B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&border=FFFFFF)](https://git.io/streak-stats" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iatharva&&show_icons=true&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" />
 </p>
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iatharva&show_icons=true&layout=compact&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" /></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iatharva/iatharva/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=25875102)
