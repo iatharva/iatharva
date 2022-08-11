@@ -12,8 +12,6 @@
 
 ### I’m looking to collaborate on developing anything that will help people.
 
-### Connect with me
-
 [<img align="left" alt="iatharva_ | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img align="left" alt="Atharva I | linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="iatharva | Stackoverflow" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />][stackoverflow]
