@@ -1,6 +1,6 @@
+![Atharvs's Banner](https://user-images.githubusercontent.com/25875102/190615596-44260df0-bb7a-4355-970c-69f172e29cae.png)
 
-
-# Hey, I'm Atharva <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hello there, I'm Atharva <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=iatharva&style=flat-square)
 ### I'm a Developer 🖥, Programmer, Technophile, Philomath, and Student.
 
