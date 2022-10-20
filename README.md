@@ -4,8 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=iatharva&style=flat-square)
 ### I'm a Developer 🖥, Programmer, Technophile, Philomath, and Student.
 
-- 👨🏽‍💻 I'm currently working in <a href="https://dotnet.microsoft.com/">.NET</a> !
-- 🧐 trying to learn every new technology and work on too many things. 😂
+- 👨🏽‍💻 I'm currently working in <a href="https://dotnet.microsoft.com/">.NET</a> and <a href="https://www.java.com/en/">Java</a> !
+- 🧐 trying to learn every new things everyday and work on too many things. 😂
 - 🥅 2022 Goals: Creating more open-source projects and expand my knowledge in the process.
 - 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>🎮 and watch intriguing shows 📺 and movies 🎞(more about it <a href="https://www.instagram.com/ronin_daedalus/">here </a>).
 - To know more about me visit: <a href="https://iatharva.github.io"> iatharva.github.io </a>
