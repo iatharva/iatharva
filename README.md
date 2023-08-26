@@ -4,17 +4,17 @@
 ![](https://komarev.com/ghpvc/?username=iatharva&style=flat-square)
 ### I'm a Developer 🖥, Programmer, Technophile, Philomath, and Student.
 
-- 👨🏽‍💻 I'm currently working in <a href="https://dotnet.microsoft.com/">.NET</a> and <a href="https://www.java.com/en/">Java</a> !
-- 🧐 trying to learn every new things everyday and work on too many things. 😂
-- 🥅 2023 Goals: Creating more open-source projects and expand my knowledge in the process.
-- 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>🎮 and watch intriguing shows 📺 and movies 🎞(more about it <a href="https://www.instagram.com/ronin_daedalus/">here </a>).
+- 👨🏽‍💻 I'm currently working in <a href="https://dotnet.microsoft.com/">.NET</a> and <a href="https://www.java.com/en/">Java</a> using GCP and Azure Services !
+- 🧐 trying to learn new things every day and work on too many things. 😂
+- 🥅 2023 Goals: Creating more open-source projects and expanding my knowledge.
+- 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>, <a href="https://overwatch.blizzard.com/en-us/">overwatch </a>🎮 and watch intriguing shows 📺 and movies 🎞(more about it <a href="https://www.instagram.com/ronin_daedalus/">here </a>).
 - To know more about me visit: <a href="https://iatharva.github.io"> iatharva.github.io </a>
 
 ### I’m looking to collaborate on developing anything that will help people.
 
 [<img align="left" alt="iatharva_ | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img align="left" alt="Atharva I | linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="iatharva | Stackoverflow" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />][stackoverflow]
+[<img align="left" alt="iatharva | Stackoverflow" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />][StackOverflow]
 <a href="mailto:atharva464@gmail.com"> Send me a mail </a>
 <br>
 
@@ -28,10 +28,6 @@
 <p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iatharva&background=2B2B2B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&border=FFFFFF)](https://git.io/streak-stats" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iatharva&&show_icons=true&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iatharva/iatharva/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
