@@ -1,7 +1,7 @@
 
 # Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=iatharva&style=flat-square)
-### I'm a Developer 🖥, Programmer, Technophile, Philomath, and Student.
+### I'm a Developer 🖥, Technophile, Philomath, and Student.
 
 - 👨🏽‍💻 I'm currently working in backend using <a href="https://dotnet.microsoft.com/">.NET</a> and Azure Services, etc.
 - 🧐 trying to learn new things every day and work on too many things. 😂
