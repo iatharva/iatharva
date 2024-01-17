@@ -1,14 +1,13 @@
-![Atharvs's Banner](https://user-images.githubusercontent.com/25875102/190615596-44260df0-bb7a-4355-970c-69f172e29cae.png)
 
 # Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=iatharva&style=flat-square)
 ### I'm a Developer 🖥, Programmer, Technophile, Philomath, and Student.
 
-- 👨🏽‍💻 I'm currently working in <a href="https://dotnet.microsoft.com/">.NET</a> and <a href="https://www.java.com/en/">Java</a> using GCP and Azure Services !
+- 👨🏽‍💻 I'm currently working in backend using <a href="https://dotnet.microsoft.com/">.NET</a> and Azure Services, etc.
 - 🧐 trying to learn new things every day and work on too many things. 😂
-- 🥅 2023 Goals: Creating more open-source projects and expanding my knowledge.
+- 🥅 2024 Goals: Creating more open-source projects and expanding my knowledge and network.
 - 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>, <a href="https://overwatch.blizzard.com/en-us/">overwatch </a>🎮 and watch intriguing shows 📺 and movies 🎞(more about it <a href="https://www.instagram.com/ronin_daedalus/">here </a>).
-- To know more about me visit: <a href="https://iatharva.github.io"> iatharva.github.io </a>
+- To know more about me visit: <a href="https://iatharva.tech"> iatharva.tech </a>
 
 ### I’m looking to collaborate on developing anything that will help people.
 
@@ -26,7 +25,7 @@
 ### GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iatharva&background=2B2B2B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&border=FFFFFF)](https://git.io/streak-stats" /> 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iatharva&background=2B2B2B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&border=FFFFFF" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iatharva&&show_icons=true&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" />
 </p>
 
