@@ -22,12 +22,8 @@
 [stackoverflow]: https://stackoverflow.com/users/5891477/iatharva
 <br>
 
-### GitHub Stats
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iatharva&&show_icons=true&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
-<p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iatharva&background=2B2B2B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&border=FFFFFF" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iatharva&&show_icons=true&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" />
-</p>
 
 
 ![](https://hit.yhype.me/github/profile?user_id=25875102)
