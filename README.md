@@ -5,7 +5,6 @@
 
 - 👨🏽‍💻 I'm currently working in backend using <a href="https://dotnet.microsoft.com/">.NET</a> and Azure Services, etc.
 - 🧐 trying to learn new things every day and work on too many things. 😂
-- 🥅 2024 Goals: Creating more open-source projects and expanding my knowledge and network.
 - 📓 Fun fact: I like to play <a href="https://www.warframe.com/game">warframe </a>, <a href="https://overwatch.blizzard.com/en-us/">overwatch </a>🎮 and watch intriguing shows 📺 and movies 🎞(more about it <a href="https://www.instagram.com/ronin_daedalus/">here </a>).
 - To know more about me visit: <a href="https://iatharva.tech"> iatharva.tech </a>
 
